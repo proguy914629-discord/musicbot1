@@ -1,4 +1,4 @@
-Command:
+# Command:
 
 import os
 import discord
